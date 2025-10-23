@@ -6,7 +6,6 @@ import {
   Phone,
   Mail,
 } from "lucide-react";
-import paymethod from "../assets/paymethod.png"; // ✅ your local image
 
 const Footer = () => {
   return (
