@@ -4,10 +4,10 @@ import Home from './Pages/Home'
 import About from './Pages/About'
 import Blogs from './Pages/Blogs'
 import SingleBlog from './Pages/SingleBlog'
-import Contact from './Pages/Contact'
 import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'
 import ScrollToTop from './Components/ScrollToTop'
+import Contact from './Pages/Contact'
 
 function App() {
 
